@@ -77,6 +77,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 ## Aspect Oriented Programming
 * [Agent Framework](https://github.com/agentframework/agentframework) Create interceptor for your class and method using @decorators
 
+
 ## Build Systems
 * [Grunt](http://gruntjs.com/) tasks:
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
@@ -106,6 +107,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 * :octocat: [Rebilly/ReDoc](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 * :octocat: [excaliburjs/Excalibur](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
 * :octocat: [Bobril](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
+* :octocat: [redux-zero](https://github.com/concretesolutions/redux-zero) - A lightweight state container based on Redux
 
 ### Standalone apps
 * :octocat: [Visual Studio Code](https://github.com/Microsoft/vscode) - Multiplatform IDE.
